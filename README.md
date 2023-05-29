@@ -25,5 +25,8 @@ Things you may want to cover:
 
 ## Personal notes
 
+- Start rails server: `bin/rails server`
+- [RubyGems](https://rubygems.org/)
+- Add gem to your project: `bin/bundle add <GEM_NAME>`
 - [Getting started](https://guides.rubyonrails.org/getting_started.html)
 - [Install Tailwind CSS with RoR](https://tailwindcss.com/docs/guides/ruby-on-rails)
