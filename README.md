@@ -31,6 +31,7 @@ Things you may want to cover:
 - Add gem to your project: `bin/bundle add <GEM_NAME>`
 - [Getting started with Rails](https://guides.rubyonrails.org/getting_started.html)
 - [Install Tailwind CSS with Rails](https://tailwindcss.com/docs/guides/ruby-on-rails)
+- Generating a resource: `bin/rails generate resource <RESOURCE_NAME> <FIELD1_NAME>:<FIELD1_TYPE> <FIELD2_NAME>:<FIELD2_TYPE>`
 - Running migrations: `bin/rails db:migrate`
 - [Why You Need Strong Parameters in Rails](https://www.akshaykhot.com/why-use-strong-parameters-in-rails/)
 - [Action Controller Overview](https://guiarails.com.br/action_controller_overview.html)
