@@ -37,3 +37,11 @@ Things you may want to cover:
 - [Action Controller Overview](https://guiarails.com.br/action_controller_overview.html)
 - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
 - [Active Record Migrations](https://guides.rubyonrails.org/active_record_migrations.html)
+
+## Possible improvements
+
+- Show flash messages in layout to avoid code repetition
+- Customize alert flash message and not just notice
+- Dismiss flash messages after some duration
+- Search use case for turbo streams
+- Flash message not showing when task is updated
